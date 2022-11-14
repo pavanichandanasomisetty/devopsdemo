@@ -5,5 +5,5 @@
 *.php
 *.class
 !index.php
-[abc].php
+[abc].*php
 
